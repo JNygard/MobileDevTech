@@ -1,0 +1,39 @@
+.title {
+  margin-top: 0.5em;
+}
+.modal {
+  width: 100%;
+  position: fixed;
+  top: auto;
+  right: auto;
+  left: auto;
+  bottom: 0;
+}
+.modalBody {
+  height: calc(100vh - 210px);
+  overflow-y: auto;
+  overflow-x: hidden;
+  width: 100%;
+}
+.modalGrid {
+  width: 50%;
+}
+
+.image {
+  height: 30px;
+  margin-right: 0.5em;
+}
+
+.pro{
+  color: green;
+}
+.con{
+  color: red;
+}
+
+.pro2{
+  width: 50%;
+}
+.con2{
+  width: 50%;
+}

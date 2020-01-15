@@ -1,0 +1,233 @@
+{
+  "techs": [
+    {
+        "id": 1,
+        "catId": 4,
+        "difficulty": 3,
+        "popularity": 3,
+        "name": "ReactJS",
+        "releaseYear": 2012,
+        "webSite": "www.reacjtjs.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "Modern and most used frontend framwowrk for web  applications by facebook",
+        "description": "Description of react"
+    },
+    {
+        "id": 2,
+        "catId": 4,
+        "difficulty": 2,
+        "popularity": 3,
+        "name": "Angular",
+        "releaseYear": 2012,
+        "webSite": "www.angularjs.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "One of the most popular frontend frameworks by Google",
+        "description": "Description of Angular"
+    },
+    {
+        "id": 3,
+        "catId": 4,
+        "difficulty": 4,
+        "popularity": 3,
+        "name": "VueJS",
+        "releaseYear": 2012,
+        "webSite": "www.vuejs.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "*Modern frontend framework using python",
+        "description": "Description of VueJS"
+    },
+    {
+        "id": 4,
+        "catId": 2,
+        "difficulty": 7,
+        "popularity": 3,
+        "name": "Javascript",
+        "releaseYear": 2012,
+        "webSite": "www.javascript.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "Script language that all frontend side coding is based",
+        "description": "Description of javascript"
+    },
+    {
+        "id": 5,
+        "catId": 2,
+        "difficulty": 8,
+        "popularity": 3,
+        "name": "TypeScript",
+        "releaseYear": 2012,
+        "webSite": "www.typescript.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "Javascript with type defenitions, challenger for basic JS",
+        "description": "Description of typescript"
+    },
+    {
+        "id": 6,
+        "catId": 2,
+        "difficulty": 1,
+        "popularity": 3,
+        "name": "Python",
+        "releaseYear": 2012,
+        "webSite": "www.python.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "High level programming language for many purposes.",
+        "description": "Description of python"
+    },
+    {
+        "id": 7,
+        "catId": 1,
+        "difficulty": 1,
+        "popularity": 3,
+        "name": "HTML 5",
+        "releaseYear": 2012,
+        "webSite": "www.html.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "Markup language for web pages. ",
+        "description": "Description of HTML"
+    },
+    {
+        "id": 8,
+        "catId": 1,
+        "difficulty": 1,
+        "popularity": 3,
+        "name": "CSS",
+        "releaseYear": 2012,
+        "webSite": "www.css.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "Language for describing HTML elements appearance",
+        "description": "Description of HTML"
+    },
+    {
+        "id": 9,
+        "catId": 3,
+        "difficulty": 3,
+        "popularity": 3,
+        "releaseYear": 2012,
+        "name": "NodeJS - express",
+        "webSite": "www.express.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "Express is backend framework wich runs on NodeJS runtime enviroment",
+        "description": "Description of NodeJS - express"
+    },
+    {
+        "id": 10,
+        "catId": 3,
+        "difficulty": 5,
+        "popularity": 3,
+        "name": "Spring boot",
+        "releaseYear": 2012,
+        "webSite": "www.spring.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "Spring is backend framework using Java/kotlin",
+        "description": "Description of Spring"
+    },
+    {
+        "id": 11,
+        "catId": 2,
+        "difficulty": 5,
+        "popularity": 3,
+        "name": "Java",
+        "releaseYear": 2012,
+        "webSite": "www.java.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "Most used programming language so far",
+        "description": "Description of Java"
+    },
+    {
+        "id": 12,
+        "catId": 2,
+        "difficulty": 5,
+        "popularity": 3,
+        "name": "Kotlin",
+        "releaseYear": 2012,
+        "webSite": "www.kotlin.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "New programming laguage based on Java",
+        "description": "Description of Kotlin"
+    },
+    {
+        "id": 13,
+        "catId": 6,
+        "difficulty": 5,
+        "popularity": 3,
+        "name": "VS code",
+        "releaseYear": 2012,
+        "webSite": "www.visualstudio.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "IDE for developing web applications",
+        "description": "Description of VS code"
+    },
+    {
+        "id": 14,
+        "catId": 7,
+        "difficulty": 5,
+        "popularity": 3,
+        "name": "mongoDB",
+        "releaseYear": 2012,
+        "webSite": "www.mongoDB.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "Open Source Document Database",
+        "description": "Description of mongoDB"
+    }
+  ],
+    "categories": [
+    {
+        "id": 0,
+        "name": "All",
+        "description": "Show all categories"
+    },
+    {
+        "id": 1,
+        "name": "Web standards - Basics",
+        "description": "Programming languages..."
+    },
+    {
+        "id": 2,
+        "name": "Programming languages",
+        "description": "Programming languages..."
+    },
+    {
+        "id": 3,
+        "name": "Backend frameworks",
+        "description": "..."
+    },
+    {
+        "id": 4,
+        "name": "Frontend frameworks",
+        "description": "..."
+    },
+    {
+        "id": 5,
+        "name": "Testing frameworks",
+        "description": "..."
+    },
+    {
+        "id": 6,
+        "name": "Software and tools",
+        "description": "..."
+    },
+    {
+        "id": 7,
+        "name": "Databases",
+        "description": "..."
+    },
+    {
+        "id": 8,
+        "name": "Other",
+        "description": "..."
+    }
+  ],
+  "nativetechs": [
+    {
+        "id": 1,
+        "catId": 4,
+        "difficulty": 3,
+        "popularity": 3,
+        "name": "Android Studio",
+        "releaseYear": 2012,
+        "webSite": "www.android.org",
+        "video": "https://www.youtube.com/embed/z4JUm0Bq9AM",
+        "shortIntro": "Android",
+        "description": "Description of Android"
+    }
+  ]
+}

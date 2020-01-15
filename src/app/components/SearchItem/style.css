@@ -1,0 +1,31 @@
+.searchItem {
+  margin-top: 0.5em;
+}
+
+.design {
+  color: white;
+
+  margin-top: -40px;
+  padding-top: 4em;
+  padding-bottom: 1em;
+  height: auto;
+  width: 100%;
+  /*background-image: url("'../../../assets/car.jpg"); */
+  background-repeat: no-repeat;
+
+  background-size: cover;
+  background-position-y: 34%;
+
+  background-position-x: center;
+}
+
+.background{
+
+}
+
+.info {
+  font-weight: bold;
+  margin-top: 0em;
+  color: white;
+  text-align: center;
+}
